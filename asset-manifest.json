@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hrk_e-commerce_app/static/css/main.5c662658.css",
-    "main.js": "/hrk_e-commerce_app/static/js/main.5fd5faa1.js",
+    "main.js": "/hrk_e-commerce_app/static/js/main.c0415eea.js",
     "static/media/cat-2.jpg": "/hrk_e-commerce_app/static/media/cat-2.c783bc351239091a6ba7.jpg",
     "static/media/speaker-prod-6.jpg": "/hrk_e-commerce_app/static/media/speaker-prod-6.3120091d93a83dbff6ef.jpg",
     "static/media/cat-3.jpg": "/hrk_e-commerce_app/static/media/cat-3.a8441fd9d3326934ed92.jpg",
@@ -31,10 +31,10 @@
     "static/media/earbuds-prod-1.webp": "/hrk_e-commerce_app/static/media/earbuds-prod-1.8a82669f0f771bfe5709.webp",
     "index.html": "/hrk_e-commerce_app/index.html",
     "main.5c662658.css.map": "/hrk_e-commerce_app/static/css/main.5c662658.css.map",
-    "main.5fd5faa1.js.map": "/hrk_e-commerce_app/static/js/main.5fd5faa1.js.map"
+    "main.c0415eea.js.map": "/hrk_e-commerce_app/static/js/main.c0415eea.js.map"
   },
   "entrypoints": [
     "static/css/main.5c662658.css",
-    "static/js/main.5fd5faa1.js"
+    "static/js/main.c0415eea.js"
   ]
 }
