@@ -10,7 +10,8 @@ const Newsletter = () => {
     const [email,setEmail] = useState("")
     const submitHandler =(e)=>{
         e.preventDefault();
-        alert(`Your Email:${email} Successfully Subscribe!!!`)
+        if(email !== "") alert(`Your Email:${email} Successfully Subscribe!!!`);
+        else alert('please fill the field!!!')
     }
     return (
         <div className="newsletter-section">
@@ -21,7 +22,7 @@ const Newsletter = () => {
                 </span>
                 <div className="form" >
                     <form onSubmit={submitHandler} className="d-flex"> 
-                    <input type="email" placeholder="Email Address" value={email} onChange={(e)=>setEmail(e.target.value)} />
+                    <input type="email" placeholder="Email Address" value={email} onChange={(e)=>setEmail(e.target.value)} required/>
                     <button type="submit">Subscribe</button>
                     </form>
                 </div>
