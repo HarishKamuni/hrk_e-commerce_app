@@ -18,16 +18,16 @@ const Footer = () => {
                     <div className="c-item">
                         <FaLocationArrow />
                         <div className="text">
-                            Nagpur, Maharashtra, India - 441305
+                            Solapur, Maharashtra, India - 413002
                         </div>
                     </div>
                     <div className="c-item">
                         <FaMobileAlt />
-                        <div className="text">Phone: 9834902350</div>
+                        <div className="text">Phone: 7058443320</div>
                     </div>
                     <div className="c-item">
                         <FaEnvelope />
-                        <div className="text">Email: gadgetsplatform@info.com</div>
+                        <div className="text">Email: hkamuni21@gmail.com</div>
                     </div>
                 </div>
                 <div className="col">
@@ -50,7 +50,7 @@ const Footer = () => {
             <div className="bottom-bar">    
                 <div className="bottom-bar-content">
                     <span className="text">
-                        Gadgets Platform @2024 DESIGNED BY ADITYA POTODE
+                        Gadgets Platform @2024 DESIGNED BY HARISH KAMUNI
                     </span>
                     <img src={Payment} />
                 </div>
